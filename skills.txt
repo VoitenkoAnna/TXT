@@ -1,0 +1,5 @@
+Theory:Testing theory knowledge,
+Practice:Web and mobile testing,
+Soft skill:Teamwork,
+Hard skill:Java script.
+
