@@ -1,0 +1,6 @@
+
+ Name: Anna Voitenko,
+Age:42,
+Animals:0,
+Salary:2000.
+
